@@ -15,8 +15,10 @@ The course included a comprehensive exploration of Python programming, with a fo
 - **Loop Structures**: Comprehensive understanding of looping mechanisms in Python including for and while loops.
 - **Modules**: Utilization of Python modules to organize and reuse code effectively.
 - **Object-Oriented Programming**: Advanced concepts of OOP in Python for structuring large and complex software applications.
+- **PyQt5**: Development of a simple 2-player game, currency converter UI, and other mini-projects using the PyQt5 framework for Python GUI application development.
 
 In the **Advanced Modules** section, the course covered specialized Python libraries and frameworks, such as:
+- **PyQt5 Applications**: Built several small desktop applications to understand the workings of PyQt5.
 - **BeautifulSoup**: For web scraping and parsing HTML/XML documents.
 - **Json**: Handling JSON data for web communication and data storage.
 - **Os Module**: Interacting with the operating system and managing file system operations.
